@@ -1,0 +1,5 @@
+Git remote add origin link
+Git push -u origin master
+touch .gitignore
+Git rm --cached -r
+Git clone link

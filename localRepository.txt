@@ -1,0 +1,20 @@
+
+Cd change directory
+Cd ~ root directory
+Mkdir make directory
+Ls shows files
+Ls -a shows files including hidden
+Touch creates files like .txt
+Open filename opens file 
+
+
+
+
+Git init 
+Git status
+Git add file.extension
+Git add .
+Git commit -m "description"
+Git log
+Git diff file.extension
+Git checkout file.extension

@@ -1,0 +1,4 @@
+Git branch
+Git branch newbranchname
+Git checkout branchname
+Git merge newbranchname
